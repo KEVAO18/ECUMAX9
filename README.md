@@ -16,7 +16,7 @@
 	- route.php
 ---
 - public
-	-logged
+	- logged
 		- index.php
 		- logout.php
 	- index.php
