@@ -38,5 +38,5 @@
 		- home.php
 		- login.php
 		- signup.php
-		-tyc.php
--readme.md
+		- tyc.php
+- readme.md
